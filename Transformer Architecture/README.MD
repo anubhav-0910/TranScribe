@@ -29,3 +29,10 @@ pip install -r requirements.txt
 * Upload the transformer_model_py_1.py file in Transformer-Trained.ipynb  , incase you futher want to train or finetune the model.
 * The rest of the files in Transformer Architecture folder are individually implemented components of transformer architecture for better understanding.
 
+### 5. Customization
+Feel free to fine-tune the model further or adjust hyperparameters based on your specific use case. Check the documentation for advanced usage.
+
+
+## Citation
+If you leverage this model in your research or work.
+
