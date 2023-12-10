@@ -9,5 +9,9 @@ This initiative is helmed by IIT Madras faculty members Mitesh Khapra and Pratyu
 
 ## Usage
 
+### 1. Clone the Repository
 
-
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
