@@ -7,6 +7,9 @@ This repository contains transformer model that we bulit from scratch from mathe
 This initiative is helmed by IIT Madras faculty members Mitesh Khapra and Pratyush Kumar, as a part of their technology startup One Fourth Labs.
 * The dataset can be found here in this [link](https://drive.google.com/drive/folders/1in3o1e7IkFm9OcQCh3yCOTwDuxgmvesz?usp=sharing)
 
+## Overview of architecture
+![Transformer model](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmachinelearningmastery.com%2Fthe-transformer-model%2F&psig=AOvVaw2mkNHyWcr3qzOwNmt8l_G-&ust=1702303872084000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDs75-GhYMDFQAAAAAdAAAAABAD)
+
 ## Usage
 
 ### 1. Clone the Repository
