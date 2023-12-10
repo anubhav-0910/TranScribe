@@ -7,7 +7,7 @@ This repository contains transformer model that we bulit from scratch from mathe
 This initiative is helmed by IIT Madras faculty members Mitesh Khapra and Pratyush Kumar, as a part of their technology startup One Fourth Labs.
 * The dataset can be found here in this [link](https://drive.google.com/drive/folders/1in3o1e7IkFm9OcQCh3yCOTwDuxgmvesz?usp=sharing)
 
-## Overview of architecture
+## Overview of the architecture
 <img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" width="500" height="500">
 
 
