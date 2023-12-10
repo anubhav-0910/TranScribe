@@ -8,7 +8,8 @@ This initiative is helmed by IIT Madras faculty members Mitesh Khapra and Pratyu
 * The dataset can be found here in this [link](https://drive.google.com/drive/folders/1in3o1e7IkFm9OcQCh3yCOTwDuxgmvesz?usp=sharing)
 
 ## Overview of architecture
-![Transformer model](https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png)
+<img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" width="100" height="100">
+
 
 ## Usage
 
