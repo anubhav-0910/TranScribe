@@ -6,5 +6,7 @@ This repository contains transformer model that we bulit from scratch from mathe
 * AI4Bharat is a non-profit, open-source community of engineers, domain experts, policy makers and academicians, all collaborating to build AI solutions for solving India’s critical socio-economic and environmental challenges.  It is a research lab at IIT Madras which works on developing open-source datasets, tools, models and applications for Indian languages. 
 This initiative is helmed by IIT Madras faculty members Mitesh Khapra and Pratyush Kumar, as a part of their technology startup One Fourth Labs.
 
+# Usage
+
 
 
