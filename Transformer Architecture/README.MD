@@ -33,6 +33,9 @@ pip install -r requirements.txt
 Feel free to fine-tune the model further or adjust hyperparameters based on your specific use case. Check the documentation for advanced usage.
 
 
+## Additional Information
+Explore the Transformer-Trained.ipynb notebook for a detailed walkthrough and examples.
+
 ## Citation
-If you leverage this model in your research or work.
+If you use this dataset or Transformer model in your research or work, kindly cite the source or authors as appropriate.
 
