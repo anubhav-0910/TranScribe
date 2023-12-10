@@ -2,12 +2,14 @@
 
 ## Overview
 
+Our central goal revolves around the translation of English to Hindi, utilizing a set of four different models. Our evaluation criterion involves a comparative analysis of the BLEU scores associated with each model's performance. Through this comprehensive assessment, we aim to discern and pinpoint the most proficient model among the four for English-to-Hindi translation tasks.
+
 This repository contains four machine learning models for Neural Machine Translation (NMT):
 
 * Helsinki-MT: This is a Transformer-based NMT model trained on the Helsinki Corpora. It supports translation between a variety of language pairs.
 * Meta-NLLB-200: This is a state-of-the-art NMT model from Meta AI that supports translation between 200 languages. It is based on the No Language Left Behind (NLLB) project, which aims to develop high-quality machine translation capabilities for most of the world's languages.
 * Transformer: This is the original Transformer model for NMT, which was first introduced in the paper "Attention is All You Need" by Vaswani et al. (2017).
-* Custom Model: This is a template for creating your own custom NMT model.
+* Neural Machine Translation using LSTM: This is a template for creating a LLM model using LSTM.
 
 ## Features
 
@@ -32,7 +34,7 @@ This repository contains four machine learning models for Neural Machine Transla
 * Extensive research base: Supported by a vast body of research and development efforts.
 * Easy to interpret: Allows visualization and analysis of the attention mechanism.
   
-### Custom Model:
+### Neural Machine Translation using LSTM:
 
 * Tailored to your needs: Build a model optimized for specific languages or domains.
 * Full control over training: Fine-tune hyperparameters and experiment with different architectures.
@@ -60,7 +62,7 @@ This repository contains four machine learning models for Neural Machine Transla
 ### Transformer:
 * Vaswani et al., 2017: https://arxiv.org/abs/1706.03762
   
-### Custom Model:
+### Neural Machine Translation using LSTM:
 * TensorFlow documentation: https://www.tensorflow.org/
 * PyTorch documentation: https://pytorch.org/
 
