@@ -6,6 +6,8 @@ This repository contains a fine-tuned version of the Helsinki NLP model for Natu
 
 The Helsinki NLP model is a powerful language model pre-trained on a diverse range of data. This repository provides a finetuned version of the model that is specifically optimized for certain tasks.
 
+## Dataset link 
+https://drive.google.com/drive/folders/1G1HugaaWZCSG_sAmicqjuzbYUXHzHEqx?usp=sharing
 ## Usage
 
 To use the Helsinki NLP_finetuned model in your projects, follow the steps below:
