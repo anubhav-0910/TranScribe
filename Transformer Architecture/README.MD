@@ -19,3 +19,9 @@ This initiative is helmed by IIT Madras faculty members Mitesh Khapra and Pratyu
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
+### 2. Install Dependencies
+Ensure you have the necessary dependencies installed. You can use the following command to install them:
+
+```bash
+pip install -r requirements.txt
+```
